@@ -3,8 +3,7 @@
 ## Thông tin chung
 - **Học phần:** Nền tảng công nghệ số- CT005
 - **Giảng viên**: Thầy Nguyễn Minh Trung
-- **Sinh viên:** Nguyễn Phát Đạt B2504789, Dương Văn Thành Hiệu B2504794, Nguyễn Ngọc Diệp B2504786, Nguyễn Tuấn Anh B2504784
--                 
+- **Sinh viên:** Nguyễn Phát Đạt B2504789, Dương Văn Thành Hiệu B2504794, Nguyễn Ngọc Diệp B2504786, Nguyễn Tuấn Anh B2504784             
 - **Thời lượng:** 5 tiết (150 phút)  
 - **Mục tiêu CLO:** CLO11, CLO12, CLO13, CLO14  
 
